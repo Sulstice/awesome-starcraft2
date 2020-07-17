@@ -4,7 +4,7 @@ Starcraft2: A Repository for all your Starcraft 2 Resources!
 Starcraft2 is a collection of all things related to starcraft2. As a programmer and a advocate fan I would love to distribute as many resources possible for folk entering the game!
 
 <p align="center">
-  <img width="800" height="400" src="images/zergling.png">
+  <img width="350" height="400" src="images/zergling.png">
 </p>
 
 
